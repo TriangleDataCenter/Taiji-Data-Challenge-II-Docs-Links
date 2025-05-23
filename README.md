@@ -26,7 +26,7 @@ Prior to the official release, TDC II will initially deploy a beta test release.
 - **Official Release:** May, 28, 2025
 - **Result Submission Due:** Oct, 9, 2025
 
-* Only one account is needed for each team, and individual participants may also register as a single-member team. For users unable to access the Result submission website, submitting by email is also supported (Result submissions shall be formatted as plain text (.txt) files containing a header line starting with # specifying the parameter names. Descriptions about the targeted challenge dataset, the methods / algorithms / codes used in analysis, as well as the URL of relevant paper could also be included.)
+**NOTE:** Only one account is needed for each team, and individual participants may also register as a single-member team. For users unable to access the Result submission website, submitting by email is also supported (Result submissions shall be formatted as plain text (.txt) files containing a header line starting with # specifying the parameter names. Descriptions about the targeted challenge dataset, the methods / algorithms / codes used in analysis, as well as the URL of relevant paper could also be included.)
 
 ## Contacts 
 - **Emails:** taiji-tdc@ucas.ac.cn, duminghui@imech.ac.cn
