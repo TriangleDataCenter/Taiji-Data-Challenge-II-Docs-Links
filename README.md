@@ -32,5 +32,5 @@ Result submissions shall be formatted as plain text (.txt) files containing a he
 
 ## Contacts 
 - **Emails:** taiji-tdc@ucas.ac.cn, duminghui@imech.ac.cn
-
+- **Mattermost:**
 
