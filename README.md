@@ -32,5 +32,6 @@ Result submissions shall be formatted as plain text (.txt) files containing a he
 
 ## Contacts 
 - **Emails:** taiji-tdc@ucas.ac.cn, duminghui@imech.ac.cn
-- **Mattermost:**
+- **Mattermost:** [invitation link](https://mattermost.ictp-ap.org/signup_user_complete/?id=p9knpuob53da8euc7escejue9o&md=link&sbr=su
+) to the mattermost channels of TDC II 
 
