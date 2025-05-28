@@ -11,7 +11,7 @@ An outline for the challenges:
 - **Challenge 3:** the “End-to-End” Dataset
 - **Challenge 4:** the “Up-to-Date” Dataset
 
-Each dataset is stored in a separate HDF5 (.h5) file, which can be downloaded at [The Zenodo Page of TDC II](https://zenodo.org/records/15469565) (please make sure to download the latest version). For **Challenge 0 – 2**, a TDI-combined and downsampled version can be downloaded at [The Zenodo Page of TDC II-XYZ](https://zenodo.org/records/15469724).
+Each dataset is stored in a separate HDF5 (.h5) file, which can be downloaded at [The Zenodo Page of TDC II](https://zenodo.org/records/15532090) (please make sure to download the latest version). For **Challenge 0 – 2**, a TDI-combined and downsampled version can be downloaded at [The Zenodo Page of TDC II-XYZ](https://zenodo.org/records/15469724).
 
 Detailed descriptions on the challenge topics and datasets, as well as how the datasets are created are described in the TDC II paper and TDC II manual in this repository. 
 Also provided here is a presentation introducing the aims and design of TDC II. 
