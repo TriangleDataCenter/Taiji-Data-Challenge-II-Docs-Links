@@ -20,11 +20,11 @@ Instructions and examples on how to use these data are provided in the Tutorials
 Please make sure to read the README files before use. 
 
 ## Timelines
-Prior to the official release, TDC II will initially deploy a beta test release. During this period, users are encouraged to propose any suggestions regarding the optimization of datasets. Please submit your results by Oct, 9, 2025 at the [Results page](http://gr.imech.ac.cn/results/) (register required*). All the source parameters will be made public after this date. 
+Prior to the official release, TDC II will initially deploy a beta test release. During this period, users are encouraged to propose any suggestions regarding the optimization of datasets. Result collection for this version is planned on Oct, 9, 2025. Please submit your results at the [Results page](http://gr.imech.ac.cn/results/) (register required*) or through the email addresses below. All the source parameters will be made available after we have generated the summary of results. We also plan to continuously update TDC II in the future.
 
 - **Beta Test Release:** May, 23, 2025
 - **Official Release:** May, 28, 2025
-- **Result Submission Due:** Oct, 9, 2025
+- **Result Collection:** Oct, 9, 2025
 
 ## Result Submission 
 For submission at the [Results page](http://gr.imech.ac.cn/results/), only one account is needed for each team, and individual participants may also register as a single-member team. For users unable to access the result submission website, submitting by email is also supported. Required in your email: team name, the team members' affiliations, and the team leader (submitter)'s name. This ensures that we can publish the result list after the deadline. 
